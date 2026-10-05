@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fusion360": {
+      "command": "python3",
+      "args": ["/home/<your_user>/<path_to_repo>/fusion-360-mcp-wine-bridge/fusion_stdio.py"]
+    }
+  }
+}

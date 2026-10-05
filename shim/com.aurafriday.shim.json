@@ -1,0 +1,7 @@
+{
+  "name": "com.aurafriday.shim",
+  "description": "Local MCP-Link shim (Linux/Wine)",
+  "path": "C:\\AuraFriday\\shim.exe",
+  "type": "stdio",
+  "allowed_origins": ["*"]
+}
